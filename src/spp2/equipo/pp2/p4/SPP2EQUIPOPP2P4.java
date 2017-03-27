@@ -19,7 +19,7 @@ public class SPP2EQUIPOPP2P4 {
      */
     public static void main(String[] args) {
         
-        int[][] arreglo={{1,2,3,4},{1,2,3,4},{1,2,3,4},{1,2,3,4}};
+        int[][] arreglo={{1,2,3,4},{8,7,6,5},{1,2,3,4},{16,15,14,13}};
         System.out.println("Bienvenido al programa #4 de una matriz 4x4 con diferentes funciones");
         System.out.println("Los valores de la matriz 4x4 en sus respectivas coordenadas son los siguientes");
         valores(arreglo);
